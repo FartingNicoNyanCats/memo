@@ -1,1 +1,5 @@
+# Fichier demo pour lancer authD
 
+Avec ces fichiers à la racine authd lancer la commande
+
+> ./bin/authd -g group -u passwd -K 123
